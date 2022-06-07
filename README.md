@@ -10,10 +10,9 @@ Task utilizando a API do Star wars <br>
 ## Gregori Rodrigues Monteiro
 Projeto criado como task para desenvolver uma projeto com qualquer biblioteca, projeto deverá ser capaz de puxar dados de uma [API][API];
 >[Linkedin][Linkedin] ; <br>
+>Site está disponivel no link: https://starwarsapi-greg.netlify.app ;
 
 ## Algumas dificuldades encontradas ao longo do projeto:
->Não foi possivel trocar a tradução, para puxar os arrays especificos dentro de "personagem, veiculo, e filme" o usuario deverá clicar em um botão correspondente
->Porem, o botão teve que ficar em inglês para o API identificar o que o usuario deseja.
 >> Algo ainda a ser realizado: Reponsividade.
 
 ## Ferramentas e conhecimentos utilizados:
